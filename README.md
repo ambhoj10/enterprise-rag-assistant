@@ -7,13 +7,18 @@ AI-powered enterprise document assistant using:
 - ChromaDB
 - Streamlit
 
+---
+
 ## 🚀 Features
 
-- Upload enterprise PDFs
-- Semantic document search
+- Upload enterprise PDF documents
 - AI-powered question answering
+- Semantic document search
 - Retrieval-Augmented Generation (RAG)
+- Vector database retrieval using ChromaDB
 - Azure OpenAI integration
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +27,9 @@ AI-powered enterprise document assistant using:
 - LangChain
 - Azure OpenAI
 - ChromaDB
+- PyPDF
+
+---
 
 ## ▶️ Run Locally
 
