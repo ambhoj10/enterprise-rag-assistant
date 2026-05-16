@@ -9,6 +9,12 @@ AI-powered enterprise document assistant using:
 
 ---
 
+## 🌐 Live Demo
+
+[Launch Enterprise RAG Assistant](https://enterprise-rag-assistantgit-lqekzjhwvgltxq4plwuj6a.streamlit.app/)
+
+---
+
 ## 🚀 Features
 
 - Upload enterprise PDF documents
