@@ -124,9 +124,13 @@ Question:
 
         # Display Answer
         st.subheader("📖 AI Answer")
-        st.write(response)
+
+        st.markdown(response.content)
 
         with st.expander("View Retrieved Context"):
+
             for i, doc in enumerate(retrieved_docs):
+
                 st.markdown(f"### Chunk {i+1}")
+
                 st.write(doc.page_content[:500])
