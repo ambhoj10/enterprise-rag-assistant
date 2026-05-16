@@ -11,8 +11,7 @@ AI-powered enterprise document assistant using:
 
 ## 🌐 Live Demo
 
-[Launch Enterprise RAG Assistant](https://enterprise-rag-assistantgit-lqekzjhwvgltxq4plwuj6a.streamlit.app/)
-
+https://enterprise-rag-assistantgit-lqekzjhwvgltxg4plwuj6a.streamlit.app/
 ---
 
 ## 🚀 Features
