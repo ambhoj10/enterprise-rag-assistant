@@ -6,10 +6,7 @@ AI-powered enterprise knowledge platform built using Azure OpenAI, Conversationa
 
 # 🚀 Live Demo
 
-Add your deployed Streamlit URL here:
-
-```plaintext
-https://your-streamlit-app-url.streamlit.app
+https://enterprise-rag-assistantgit-lqekzjhwvgltxg4plwuj6a.streamlit.app/
 ```
 
 ---
