@@ -172,32 +172,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
-
-## 🧠 Optimized Search Query
-
-Add screenshot here.
-
----
-
-## 🤖 Active AI Agents
-
-Add screenshot here.
-
----
-
-## 📖 AI Answer
-
-Add screenshot here.
-
----
-
-## 🔎 Retrieval Diagnostics
-
-Add screenshot here.
-
----
-
 # 🚀 Deployment
 
 This application is deployed using Streamlit Community Cloud.
